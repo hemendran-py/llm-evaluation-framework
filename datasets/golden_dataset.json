@@ -1,0 +1,43 @@
+
+[
+  {
+    "id": "TC001",
+    "input": "What is AWS S3?",
+    "context": [
+      "Amazon S3 is an object storage service provided by AWS. It stores and retrieves data such as images, documents, videos and backups."
+    ],
+    "expected_output": "AWS S3 is an object storage service used to store and retrieve files and other data."
+  },
+  {
+    "id": "TC002",
+    "input": "What is a virtual machine?",
+    "context": [
+      "A virtual machine is a software-based computer that runs an operating system and applications using virtualized hardware resources."
+    ],
+    "expected_output": "A virtual machine is a software-based computer that runs an operating system and applications using virtualized hardware."
+  },
+  {
+    "id": "TC003",
+    "input": "What is an API?",
+    "context": [
+      "An API is an interface that allows different software applications to communicate and exchange data through defined rules."
+    ],
+    "expected_output": "An API allows different software applications to communicate and exchange data."
+  },
+  {
+    "id": "TC004",
+    "input": "What is SQL?",
+    "context": [
+      "SQL is a language used to manage and query relational databases. It supports operations such as retrieving, inserting, updating and deleting records."
+    ],
+    "expected_output": "SQL is a language used to query and manage relational databases."
+  },
+  {
+    "id": "TC005",
+    "input": "What is cloud computing?",
+    "context": [
+      "Cloud computing provides on-demand access to computing resources such as servers, storage, databases and networking over the internet."
+    ],
+    "expected_output": "Cloud computing provides on-demand computing resources over the internet."
+  }
+]

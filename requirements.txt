@@ -1,0 +1,5 @@
+
+google-genai
+deepeval
+python-dotenv
+pytest
